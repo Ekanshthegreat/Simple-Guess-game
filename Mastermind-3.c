@@ -1,6 +1,5 @@
-/*  Author: Ekansh Chawla
-    Student Number: 301585708
-    Assignment 1 Part 2: Mastermind.c
+/*  Author: Ekansh Chawla  
+    For university Assignment 
 */
 
 
